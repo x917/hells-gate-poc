@@ -9,3 +9,5 @@ the stub gets placed at a deliberately high address (>= 0x7001_0000_0000) instea
 `NtYieldExecution` is a no-op so nothing visible happens in notepad. this just proves the path works.
 
 x64 only. process-injection PoC only run in a VM you own, against processes you own.
+
+<img width="1920" height="1080" alt="luhpic" src="https://github.com/user-attachments/assets/30647f08-dd55-4636-adbe-59ef32991a50" />
